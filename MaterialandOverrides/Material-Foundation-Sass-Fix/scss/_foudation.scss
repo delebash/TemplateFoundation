@@ -1,0 +1,74 @@
+// Foundation for Sites by ZURB
+// foundation.zurb.com
+// Licensed under MIT Open Source
+
+// Global variables and styles
+@import '../../../../npm/foundation-sites@6.1.2/scss/foundation';
+
+
+// Components
+//@import
+//'../../../../npm/foundation-sites@6.1.2/scss/grid/grid',
+//'../../../../npm/foundation-sites@6.1.2/scss/typography/typography',
+//'../../../../npm/foundation-sites@6.1.2/scss/forms/forms',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/visibility',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/float',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/button',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/button-group',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/accordion-menu',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/accordion',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/badge',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/breadcrumbs',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/callout',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/close-button',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/drilldown',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/dropdown-menu',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/dropdown',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/flex-video',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/label',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/media-object',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/menu',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/off-canvas',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/orbit',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/pagination',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/progress-bar',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/reveal',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/slider',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/sticky',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/switch',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/table',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/tabs',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/title-bar',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/top-bar',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/thumbnail',
+//'../../../../npm/foundation-sites@6.1.2/scss/components/tooltip';
+//
+//// These elements aren't styled with material design.
+//// However, if you need them you can easily uncomment them
+//@mixin foundation-everything {
+//  // @include foundation-accordion;
+//  // @include foundation-badge;
+//  // @include foundation-breadcrumbs;
+//  // @include foundation-callout;
+//  // @include foundation-close-button;
+//  // @include foundation-drilldown-menu;
+//  // @include foundation-dropdown;
+//  // @include foundation-dropdown-menu
+//  // @include foundation-flex-video;
+//  // @include foundation-label;
+//  // @include foundation-media-object;
+//  // @include foundation-off-canvas;
+//  // @include foundation-orbit;
+//  // @include foundation-pagination;
+//  // @include foundation-progress-bar;
+//  // @include foundation-slider;
+//  // @include foundation-sticky;
+//  // @include foundation-reveal;
+//  // @include foundation-table;
+//  // @include foundation-thumbnail;
+//  // @include foundation-title-bar;
+//}
+
+@include foundation-everything;
+
+
